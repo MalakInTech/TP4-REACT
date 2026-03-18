@@ -49,6 +49,15 @@ https://simpleblog-malakintech.netlify.app/
 
 ## 📸 Screenshots
 
+![Accueil](screens/Accueil.png.png)
+---
+![PremierArticle](screens/PremierArticle.png.png)
+---
+![DeuxiemeArticle](screens/DeuxiemeArticle.png.png)
+---
+![AlerteModifie](screens/AlerteModifiee.png.png)
+---
+![AlerteChampVide](screens/AlerteChampVide.png.png)
 
 
 ---
